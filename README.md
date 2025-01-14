@@ -1,4 +1,4 @@
-## Hi there, I'm Aldi Fahluzi 👋
+## Hi there, I'm Aldi Fahluzi Muharam 👋
   [![Website](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aldi-fahluzi-muharam/)
   [![Static Badge](https://img.shields.io/badge/SubStack-red)](https://alfahluzi.substack.com/)
 
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on PERURI as Web Developer
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on AI research project
-- ⚡ Fun fact: I love reads!.
+- ⚡ Fun fact: I love read!
 
 ---
 <!-- ![Alfahluzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahluzi&show_icons=true&theme=radical) -->
