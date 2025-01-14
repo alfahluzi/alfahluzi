@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love reads!.
 
 ---
-![Alfahluzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahluzi&show_icons=true&theme=radical) 
+<!-- ![Alfahluzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahluzi&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahluzi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Technologies I use 
@@ -18,26 +18,23 @@
 <table align="">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./Python.png" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="http://www.w3.org/2000/svg" width="65px"/>
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
-              <path d="m61.55 128-21.84-12.68V40.55L6.81 59.56l.08-28.32L61.55 0zM66.46 0v128l21.84-12.68V79.31l16.49 9.53-.1-24.63-16.39-9.36v-14.3l32.89 19.01-.08-28.32z" fill="#ff6f00" />
-            </svg>
+            <img src="./Jupyter.png" width="65px"/>
             <br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <img src="./TensorFlow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <img src="./PyTorch.png" width="65px"/>
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <img src="./scikit-learn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
     </tr>
@@ -49,12 +46,16 @@
 <table align="">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="https://iconduck.com/icons/94810/react" width="65px"/>
-            <br /> ReactTS
+            <img src="./TypeScript.png" width="65px"/>
+            <br /> TypeScript
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> ExpressTS
+            <img src="./React.png" width="65px"/>
+            <br /> React
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./Express.png" width="65px"/>
+            <br /> Express
         </td>
     </tr>
 </table>
