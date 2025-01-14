@@ -3,8 +3,8 @@
   [![Static Badge](https://img.shields.io/badge/SubStack-red)](https://alfahluzi.substack.com/)
 
 ## I'm AI/Web Developer & AI Researcher ✨
-- 🔭 I’m currently working on PERURI as Web Developer
-- 🌱 I’m currently learning Computer Vision
+- 🔭 I’m currently working on ML Dev Tools Project!
+- 🌱 I’m currently learning Light Inference Deep Learning
 - 👯 I’m looking to collaborate on AI research project
 - ⚡ Fun fact: I love read!
 
