@@ -4,12 +4,12 @@
 
 ## I'm AI/Web Developer & AI Researcher ✨
 - 🔭 I’m currently working on ML Dev Tools Project!
-- 🌱 I’m currently learning about Light Inference Deep Learning
+- 🌱 I’m currently learning about AI Agent & Quantum Machine Learning!
 - 👯 I’m looking to collaborate on AI research project
 - ⚡ Fun fact: I love read!
 
 ---
-<!-- ![Alfahluzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahluzi&show_icons=true&theme=radical) -->
+![Alfahluzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahluzi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahluzi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Technologies I use 
