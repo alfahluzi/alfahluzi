@@ -1,69 +1,24 @@
-## Hi there, I'm Aldi Fahluzi Muharam 👋
-  [![Website](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aldi-fahluzi-muharam/)
-  [![Static Badge](https://img.shields.io/badge/SubStack-red)](https://alfahluzi.substack.com/)
+# 💫 Hi there, I'm Aldi Fahluzi Muharam 👋
+🔭 I’m currently working on ML Dev Tools Project!<br>
+🌱 I’m currently learning about AI Agent & Quantum Machine Learning!<br>
+👯 I’m looking to collaborate on AI research project<br>
+⚡ Fun fact: I love read!
 
-## I'm AI/Web Developer & AI Researcher ✨
-- 🔭 I’m currently working on ML Dev Tools Project!
-- 🌱 I’m currently learning about AI Agent & Quantum Machine Learning!
-- 👯 I’m looking to collaborate on AI research project
-- ⚡ Fun fact: I love read!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aldi-fahluzi-muharam/) 
+[![Static Badge](https://img.shields.io/badge/SubStack-red)](https://alfahluzi.substack.com/)
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alfahluzi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alfahluzi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahluzi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alfahluzi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![Alfahluzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfahluzi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahluzi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=alfahluzi&icon=0&color=13)](https://visitcount.itsvg.in)
 
-## ⚡ Technologies I use 
-### AI Dev
-<div align="">
-<table align="">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./Python.png" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./Jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./TensorFlow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./PyTorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./scikit-learn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-    </tr>
-</table>
-</div>
-
-### Web Dev
-<div align="">
-<table align="">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./TypeScript.png" width="65px"/>
-            <br /> TypeScript
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./React.png" width="65px"/>
-            <br /> React
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./Express.png" width="65px"/>
-            <br /> Express
-        </td>
-    </tr>
-</table>
-</div>
-<!--
-**alfahluzi/alfahluzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
